@@ -1,33 +1,33 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://cdn.pixabay.com/photo/2017/09/25/18/56/social-media-2786261_960_720.jpg" width="230">
 
-## नमस्ते 🙏, I'm ASHRAF K.M 
+## 👀 I'm SERGIO JOSE ALEJANDRO FLORES 
 ## Full Stack Developer 👨‍💻
 
-[![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/ashraf-k-m-149a3494/)
-[![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:ashrafkm010@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/alejandro-flores-dev)
+[![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:sjafs.83@gmail.com)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### ✒️ A little more about me...  
 
 ```javascript
-const ashraf = {
+const alejandro = {
     pronouns: "He" | "Him",
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies:{
-        backEnd: ["nodejs", "express", "python"],
-        fronEnd: ["angular"],
-        mobileApp: ["ionic","angular"],
-        database: ["mongo","mySql"],
-        serverless: ["mongo-realm","aws-lambda"],
-        devOps: ["AWS", "Nginx", "Jenkins"],
-        misc: ["Firebase", "Socket.IO"]
+        backEnd: ["nodejs", "express", "sequelize"],
+        fronEnd: ["react","redux"],
+        mobileApp: ["react native"],
+        database: ["sqlite","postgres","mySql"],
+        cssPreProcesor: ["less"],
+        test: ["jest","chai"]
+        devOps: ["Heroku", "GitHub Pages"],
+        misc: ["Firebase"]
     },
-    architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
-}
+    architecture: ["Serverless Architecture", "microservices", "event-driven", 
 ```
 
 ---
-⭐️ From [@ashrafkm](https://github.com/ashrafkm)
+⭐️ From [@afl0r3s](https://github.com/afl0r3s)
 
 - 👋 Hi, I’m @afl0r3s
 - 👀 I’m interested in web programing, SQL and NO SQL databases, tech world...
