@@ -3,8 +3,8 @@
 ## 👀 I'm SERGIO JOSE ALEJANDRO FLORES 
 ## Full Stack Developer 👨‍💻
 
-✔️[My LinkedIn/alejandro-flores-dev](https://www.linkedin.com/in/alejandro-flores-dev)
-✔️[My E-mail](mailto:sjafs.83@gmail.com)
+✔️[LinkedIn: /alejandro-flores-dev](https://www.linkedin.com/in/alejandro-flores-dev)
+✔️[E-mail: sjafs.83@gmail.com](mailto:sjafs.83@gmail.com)
 
 
 ### ✒️ A little more about me...  
