@@ -14,10 +14,10 @@ const alejandro = {
     pronouns: "He" | "Him",
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies:{
-        backEnd: ["nodejs", "express", "sequelize"],
+        backEnd: ["nodejs", "express", "sequelize","mongoose"],
         fronEnd: ["react","redux"],
         mobileApp: ["react native"],
-        database: ["sqlite","postgres","mySql"],
+        database: ["sqlite","postgres","mySql","mongoDB"],
         cssPreProcesor: ["less"],
         test: ["jest","chai"]
         dev,Ops: ["Heroku", "GitHub Pages"],
