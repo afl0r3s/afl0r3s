@@ -18,9 +18,9 @@ const alejandro = {
         fronEnd: ["react","redux"],
         mobileApp: ["react native"],
         database: ["sqlite","postgres","mySql","mongoDB"],
-        cssPreProcesor: ["less"],
+        cssPreProcesor: ["sass","less"],
         test: ["jest","chai"]
-        dev,Ops: ["Heroku", "GitHub Pages"],
+        devOps: ["Heroku", "GitHub Pages"],
         misc: ["Firebase"]
     },
     architecture: ["Serverless Architecture", "microservices", "event-driven", 
